@@ -1,0 +1,76 @@
+{
+    "departamentos": [
+      {
+        "numero": "1",
+        "nombre": "ELECTRONICA"
+      },
+      {
+        "numero": "2",
+        "nombre": "HOGAR"
+      }
+    ],
+    "clases": [
+      {
+        "numero": "01",
+        "nombre": "TELEVISORES"
+      },
+      {
+        "numero": "02",
+        "nombre": "CAMARAS"
+      },
+      {
+        "numero": "01",
+        "nombre": "MUEBLES"
+      },
+      {
+        "numero": "02",
+        "nombre": "ELECTRODOM"
+      }
+    ],
+    "familias": [
+      {
+        "01": [
+          {
+            "numero": "001",
+            "nombre": "LCD"
+          },
+          {
+            "numero": "002",
+            "nombre": "LED"
+          }
+        ],
+        "02": [
+          {
+            "numero": "003",
+            "nombre": "COMPACTAS"
+          },
+          {
+            "numero": "004",
+            "nombre": "DSLR"
+          }
+        ]
+      },
+      {
+        "01": [
+          {
+            "numero": "005",
+            "nombre": "SOFAS"
+          },
+          {
+            "numero": "006",
+            "nombre": "MESAS"
+          }
+        ],
+        "02": [
+          {
+            "numero": "007",
+            "nombre": "LAVADORAS"
+          },
+          {
+            "numero": "008",
+            "nombre": "REFRIGERADOR"
+          }
+        ]
+      }
+    ]
+  }

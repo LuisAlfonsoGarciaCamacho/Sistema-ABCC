@@ -1,0 +1,34 @@
+{
+"departamentos": [
+{"numero": "01", "nombre": "ELECTRONICA"},
+{"numero": "02", "nombre": "HOGAR"}
+],
+"clases": [
+{"numero": "001", "nombre": "TELEVISORES"},
+{"numero": "002", "nombre": "CAMARAS"},
+{"numero": "001", "nombre": "MUEBLES"},
+{"numero": "002", "nombre": "ELECTRODOMESTICOS"}
+],
+"familias": [
+{
+"001": [
+{"numero": "0001", "nombre": "LCD"},
+{"numero": "0002", "nombre": "LED"}
+],
+"002": [
+{"numero": "0003", "nombre": "COMPACTAS"},
+{"numero": "0004", "nombre": "DSLR"}
+]
+},
+{
+"001": [
+{"numero": "0005", "nombre": "SOFAS"},
+{"numero": "0006", "nombre": "MESAS"}
+],
+"002": [
+{"numero": "0007", "nombre": "LAVADORAS"},
+{"numero": "0008", "nombre": "REFRIGERADORES"}
+]
+}
+]
+}

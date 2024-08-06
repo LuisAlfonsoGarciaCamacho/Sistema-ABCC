@@ -1,0 +1,2 @@
+sku,articulo,marca,modelo,departamento_numero,clase_numero,familia_numero,fecha_alta,stock,cantidad,descontinuado,fecha_baja
+100,prueba,Pruebaa,Prueba,1,01,001,2024-08-05,100,0,1,2024-08-05
